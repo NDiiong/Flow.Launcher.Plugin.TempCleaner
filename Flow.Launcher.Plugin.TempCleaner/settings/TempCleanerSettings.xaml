@@ -21,6 +21,10 @@
             DockPanel.Dock="Right" />
         <TextBox x:Name="viewTempFolderPath" TextChanged="textChangedEventHandler" />
       </DockPanel>
+      <Label Content="If there are multiple folders, separate them with ';'"
+             FontStyle="Italic"
+             Margin="10,5,5,5"
+             FontSize="11" />
     </StackPanel>
   </Border>
 </UserControl>
