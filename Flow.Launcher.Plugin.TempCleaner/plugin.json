@@ -2,7 +2,7 @@
   "ID": "2DC588F9-98DB-4E8E-BBE0-B4EFF4286E40",
   "ActionKeyword": "*",
   "Name": "Temp Cleaner",
-  "Description": "Temp Cleaner can clean up your temp folder easily (just run it)",
+  "Description": "Temp Cleaner can help you delete all files in temporary folder (just run it)",
   "Author": "N.Duong",
   "Version": "1.1.0",
   "Language": "csharp",
